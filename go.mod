@@ -1,4 +1,4 @@
-module mycontroller
+module github.com/terloo/mycontroller
 
 go 1.16
 

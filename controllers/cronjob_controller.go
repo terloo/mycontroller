@@ -32,7 +32,7 @@ import (
 	"sigs.k8s.io/controller-runtime/pkg/client"
 	"sigs.k8s.io/controller-runtime/pkg/log"
 
-	batchv1 "mycontroller/api/v1"
+	batchv1 "github.com/terloo/mycontroller/api/v1"
 )
 
 var (
